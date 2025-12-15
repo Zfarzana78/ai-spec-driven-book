@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Physical AI & Humanoid Robotics',
+  title: 'AI-Driven and Spec-Driven Software Development',
   tagline: 'Bridging the gap between digital AI and physical robots',
   favicon: '/img/favicon.ico',
 
