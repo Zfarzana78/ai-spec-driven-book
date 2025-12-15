@@ -14,10 +14,11 @@ const config = {
   tagline: 'Bridging the gap between digital AI and physical robots',
   favicon: '/img/favicon.ico',
 
-  url: 'https://physical-ai-lab.org',
-  baseUrl: '/',
-  organizationName: 'physical-ai-lab',
-  projectName: 'physical-ai-humanoid-robotics-book',
+ url: 'https://zfarzana78.github.io',
+baseUrl: '/ai-spec-driven-book/',
+organizationName: 'Zfarzana78',
+projectName: 'ai-spec-driven-book',
+
 
   onBrokenLinks: 'throw',
 
