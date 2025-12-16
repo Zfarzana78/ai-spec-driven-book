@@ -1,4 +1,5 @@
-# AI-Driven and Spec-Driven Software Development
+# Physical AI and Humanoid Robotics
+
 
 This book explains how software can be built using
 AI tools and specification-first thinking.
