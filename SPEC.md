@@ -1,25 +1,31 @@
 # SPEC.md
 
 ## Book Title
-AI-Driven and Spec-Driven Software Development
-
-## Target Audience
-Students and beginner software developers.
+Physical AI and Humanoid Robotics
 
 ## Purpose
-Explain AI-driven and spec-driven development in simple terms.
+Explain the foundations, architecture, and future of Physical AI
+and humanoid robotic systems in a clear and detailed manner.
+
+## Target Audience
+Students and beginners interested in AI, robotics, and intelligent systems.
+
+## Content Requirements
+- Chapters must be detailed and explanatory
+- Real-world examples where possible
+- Clear subheadings
+- Educational tone
 
 ## Chapters
-1. Introduction to AI-Driven Development
-2. Spec-Driven Engineering
-3. Tools for AI-Driven Development
-4. Writing Content Using AI
-5. Case Study: Building This Book
-6. Preparing Content for RAG Chatbots
-7. Future of AI-Driven Engineering
+1. Introduction to Physical AI
+2. Fundamentals of Humanoid Robotics
+3. Sensors and Perception Systems
+4. Actuation and Motion Control
+5. AI Models for Physical Intelligence
+6. Human–Robot Interaction
+7. Ethical and Future Considerations
 
 ## Rules
-- Simple language
-- Clear headings
-- Markdown format
-- Beginner friendly
+- Original wording
+- No copied text
+- Clear structure
